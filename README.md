@@ -537,7 +537,7 @@ Bir LLM uygulamasını değerlendirirken test edilecekler:
 ---
 
 **Yazar Hakkında**  
-*Fevzi Ege Yurtsevenler, Türkiye'nin yapay zeka güvenliği alanındaki öncü araştırmacılarından biridir. AltaySec'in kurucusu olarak Türkçe LLM güvenlik içerikleri üretiyor, eğitimler veriyor ve bu alanda Türkiye'nin ilk ekosistemini inşa ediyor. Gazi Üniversitesi'nde prompt injection eğitimi vermiş, LLM güvenliği alanında aktif araştırma sürdürmektedir.*
+*Fevzi Ege Yurtsevenler, Türkiye'de yapay zeka güvenliği alanında açık kaynak üreten bir araştırmacıdır. AltaySec'in kurucusu olarak Türkçe LLM güvenlik içerikleri üretiyor, eğitimler veriyor ve bu alanda açık kaynak bir Türkçe ekosistem inşa ediyor. Gazi Üniversitesi'nde prompt injection eğitimi vermiş, LLM güvenliği alanında aktif araştırma sürdürmektedir.*
 
 **İletişim:** [altaysec.com.tr](https://altaysec.com.tr) | LinkedIn: Fevzi Ege Yurtsevenler
 
@@ -551,7 +551,7 @@ Bir LLM uygulamasını değerlendirirken test edilecekler:
 
 ## 🌐 Bu Yol Haritasını Pratiğe Dökmek: AltaySec Eğitim Stack'i
 
-Bu roadmap teorik yolu çiziyor; pratiği için **AltaySec**'in iki ücretsiz akademi platformu ve kurumsal eğitim programları kullanılabilir. [AltaySec](https://altaysec.com.tr), Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketidir.
+Bu roadmap teorik yolu çiziyor; pratiği için **AltaySec**'in iki ücretsiz akademi platformu ve kurumsal eğitim programları kullanılabilir. [AltaySec](https://altaysec.com.tr), yapay zeka güvenliğine odaklanan bir şirkettir.
 
 ### 🎓 İki Akademi, İki Farklı Yol
 
