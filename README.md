@@ -143,6 +143,7 @@ LLM sistemlerindeki temel saldırı vektörleri:
 - [From MLOps to MLOops — JFrog](https://jfrog.com/blog/from-mlops-to-mloops-exposing-the-attack-surface-of-machine-learning-platforms/)
 - [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
 - [AI Exploits — ProtectAI](https://github.com/protectai/ai-exploits)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Awesome AI Security — ottosulin](https://github.com/ottosulin/awesome-ai-security)
 
 ---
