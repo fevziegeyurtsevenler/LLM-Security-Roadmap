@@ -1,4 +1,6 @@
 <p align="center">
+
+> 📌 **Kanonik sürüm:** Bu içeriğin güncel ve tam hâli **[altaysec.com.tr/arastirmalar/llm-security-roadmap](https://altaysec.com.tr/arastirmalar/llm-security-roadmap)** adresindedir. Depo, arşiv/uygulama amaçlıdır.
   <a href="https://altaysec.com.tr">
     <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
   </a>
@@ -589,3 +591,21 @@ Bu roadmap'i tamamlayan biri için AltaySec şu kanallar sunar:
   <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
   Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
 </p>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [LLM Security Roadmap — Türkiye'de Bu Alana Nasıl Girilir?](https://altaysec.com.tr/arastirmalar/llm-security-roadmap) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_llm_security_roadmap_2026,
+  author = {{AltaySec}},
+  title  = {LLM-Security-Roadmap},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap}
+}
+```
