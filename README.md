@@ -609,3 +609,7 @@ Bu roadmap'i tamamlayan biri için AltaySec şu kanallar sunar:
   url    = {https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap}
 }
 ```
+
+## Lisans
+
+Bu repo [CC BY 4.0](LICENSE) ile lisanslıdır.
